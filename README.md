@@ -27,7 +27,8 @@
         - [CustomLink auslesen](addons_mform_customlink.md) <sup><i>skerbis</i></sup>
         - [Einfache Tabelle mit MForm MBlock](modul_minibeispiel_mblock_tabelle.md) <sup><i>alexplusde / Skerbis</i></sup>
     - Project
-        - [Paginierungsklasse einbinden mit Project-Addon](addons_project_class_pagination.md) <sup><b>überprüfen</b></sup> <sup><i>alexplusde</i></sup>
+        - [Das `project`-Addon](addon_project_howto.md)  <sup><b>in Bearbeitung</b></sup> <sup><i>alexplusde</i></sup>
+        - [Paginierungsklasse einbinden](addons_project_class_pagination.md) <sup><b>überprüfen</b></sup> <sup><i>alexplusde</i></sup>
         - [Eigene CSS/JS Dateien im Backend hinzufügen](addons_project_add_own_js_css_files.md) <sup><i>darwin</i></sup>
         - [Tipps für Sprachen in REDAXO](addons_project_clang.md) <sup><b>überprüfen</b></sup> <sup><i>alexplusde</i></sup>
     - Struktur
